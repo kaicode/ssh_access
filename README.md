@@ -13,3 +13,5 @@ One liner:
 ```sh
 cd /tmp && git clone https://github.com/kaicode/ssh_access.git && cd ssh_access && ./create_kaik_user_with_sudo_access.sh && echo 'Kai has access' && cd .. && rm -r ssh_access
 ```
+<hr/>
+Thanks to [@mattwillsher](https://github.com/mattwillsher) for the idea!
