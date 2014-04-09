@@ -1,7 +1,7 @@
 SSL Access
 ==========
 
-To give me root access to a Ubuntu server.
+To give me sudo access to a Ubuntu server.
 
 Run:
 
